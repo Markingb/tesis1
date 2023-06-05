@@ -1,0 +1,69 @@
+
+
+Diapositiva 1: 
+Ninguna experiencia de UX está completa sin pruebas de usuario: después de todo, no solo 
+creamos diseños sin probarlos con los usuarios. Por lo tanto, una de las cosas más poderosas que 
+puede hacer para mejorar sus visualizaciones de datos es una prueba con los usuarios.  
+  Sin embargo, aunque no cubriré ampliamente las pruebas de usuario, las pruebas de usuario son 
+un método en el que está probando su producto, sitio web o servicio con sus usuarios para:  
+• Identificar problemas basados en el diseño del producto o servicio 
+• Descubriendo oportunidades para mejorar 
+• Obtener información sobre el comportamiento o el rendimiento del usuario objetivo 
+• Comprender cómo trabaja actualmente  el  usuario con el producto o servicio 
+ 
+Diapositiva 2: 
+• Las tareas son  actividades realistas que su  participante podría realizar en la vida real  con 
+su sitio web.   Estos deben    determinarse  durante las  etapas de planificación, ya  que 
+estas son  las cosas que generalmente  se miden. 
+1. Los participantes son usuarios realistas del producto o servicio que están de acuerdo en 
+ser estudiados. Una de las cosas más importantes que debe hacer durante la fase previa a 
+la prueba es reclutar participantes, asegurarse de que no sean muestras sesgadas y luego 
+obtener el consentimiento para capturar su proceso a través de video, grabaciones de 
+audio u otros métodos.  
+• Los facilitadores son personas que guían al participante a través del proceso de prueba.   
+Por lo general, son las personas que  han planeado el estudio o que forman  parte del 
+equipo de alguna manera.  
+Durante el  proceso de  prueba  del  usuario, el participante realiza tareas y da retroalimentación al 
+facilitador.   El facilitador ayuda a administrar la tarea, pero  además de eso,  tienen  otro papel  . 
+Para asegurarse   de que   tienen la retroalimentación que  necesitan, entrevistan  al  participante y 
+observan lo que están haciendo para   asegurarse de  que pueden capturar tantos datos  relevantes 
+como sea posible. 
+El proceso de prueba de  usuario le  permite buscar  comentarios de  manera sistemática y no 
+sesgada 
+ 
+Diapositiva 3: 
+Según Jacob Nielsen, jefe del Grupo Nielsen / Norman  y uno de   los padrinos de  UX, "Pensar en 
+voz alta puede ser el método de ingeniería de usabilidad más valioso". 
+Él define las pruebas de   pensamiento en voz alta  como  pruebas de usuario  en las que  se les 
+pide a los participantes que   usen el sistema mientras piensan continuamente en voz alta, lo que 
+significa verbalizar sus pensamientos a  medida que avanzan  a través del interfaz. 
+
+Para ejecutar un simple  estudio de  usabilidad de pensamiento en voz alta se requieren 3  pasos 
+básicos: 
+1. Reclutar usuarios representativos  
+2.  Darles tareas representativas  para realizar 
+3. Cállate y deja que los usuarios hablen.  
+Podemos ver que   este podría ser  un  método mucho más simple que las  pruebas de  usuario por 
+un par de razones: en lugar de aprender el papel  del facilitador en profundidad, siempre y cuando 
+mantengamos   La conversación continúa, el usuario nos  proporcionará  mucha  de la información 
+que necesitamos. 
+ 
+Diapo 4: 
+Diapo 6: 
+He hablado sobre los conceptos básicos de las pruebas de  usuario en la sección anterior, pero esta 
+es una  inmersión más profunda en el proceso que rodea un tipo similar de  prueba:  las pruebas 
+de usabilidad.    Mientras que una  prueba de usuario se  centra en los  comportamientos, las 
+necesidades y  la comprensión de su  audiencia del  usuario, la  prueba  de usabilidad  se centra en 
+si los usuarios pueden usar su producto, sitio web.    , o aplicación. Las pruebas simples de pensar 
+en voz alta  podrían ayudar a  comprender hacia dónde gravita el usuario, mientras   que las  
+pruebas de  usabilidad son un proceso que nos  permite recopilar  Datos detallados que podemos 
+utilizar para construir estas visualizaciones.   
+Como resultado, mi proceso de  pruebas de  usabilidad ha ganado una nueva capa de profundidad 
+al aprender Data Science, con solo unos pocos cambios menores.    
+Basándome en   todo lo que he  aprendido durante este año,  he   realizado cambios en  la forma 
+en que he abordado las pruebas de usabilidad y  he  podido  agregar  elementos de mi análisis.   
+Pero no había pensado en las formas en que  había cambiado hasta  que  me encontré en  medio  
+de  otra semana de pruebas.  
+ 
+Diapo 7: 
+ 
